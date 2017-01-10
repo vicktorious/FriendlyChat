@@ -1,3 +1,3 @@
 # FriendlyChat
 
-Sample project for learning FireBase
+Sample project for learning Google FireBase
